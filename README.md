@@ -1,2 +1,6 @@
 - 👋 Hi, I’m @FunToHard
 - 👀 I’m interested in Assembly
+- 
+- If you have a doubt share it, so
+-  everyone gets to have a doubt,
+-   they say sharing is caring
