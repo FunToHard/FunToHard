@@ -1,0 +1,15 @@
+<svg viewBox="0 0 1200 150" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <!-- Flat Background -->
+  <rect width="1200" height="150" fill="#000000" />
+
+  <!-- Flat Text -->
+  <g>
+    <text x="600.0" y="93.0" 
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+          font-size="68" 
+          font-weight="800" 
+          letter-spacing="4" 
+          fill="#f7df1e" 
+          text-anchor="middle">JS IS THE FUTURE</text>
+  </g>
+</svg>
