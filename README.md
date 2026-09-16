@@ -2,4 +2,6 @@
 
 ![Tesseract](./tesseract.svg)
 
+![Contact](./contact.svg)
+
 ![Sphere](./light.svg)

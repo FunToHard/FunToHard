@@ -1,0 +1,17 @@
+<svg viewBox="0 0 960 280" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <!-- Flat Dark Background -->
+  <rect width="960" height="280" fill="#0d1117" />
+
+  <!-- 16px Left-Aligned Typography (Right Side Empty) -->
+  <g font-family="'JetBrains Mono', 'Consolas', 'Fira Code', monospace" 
+     font-size="16" 
+     font-weight="500" 
+     letter-spacing="0.5">
+    <text x="56" y="68" fill="#ffffff" xml:space="preserve">Contact: funtohard@outlook.com</text>
+    <text x="56" y="96" fill="#f7df1e" xml:space="preserve">Available Hours (Sun–Sat):</text>
+    <text x="80" y="124" fill="#38bdf8" xml:space="preserve">• IST:  18:00 – 00:00 (Asia / Local)</text>
+    <text x="80" y="152" fill="#e2e8f0" xml:space="preserve">• UTC:  12:30 – 18:30 (Standard)</text>
+    <text x="80" y="180" fill="#e2e8f0" xml:space="preserve">• EST:  08:30 – 14:30 (Americas)</text>
+    <text x="80" y="208" fill="#e2e8f0" xml:space="preserve">• CET:  14:30 – 20:30 (Europe)</text>
+  </g>
+</svg>
