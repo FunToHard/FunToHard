@@ -1,7 +1,4 @@
 ![JS IS THE FUTURE](./banner_flat.svg)
-
-![Tesseract](./tesseract.svg)
-
+![CPU CHIP](./cpu_chip.svg)
 ![Contact](./contact.svg)
-
-![Sphere](./light.svg)
+![Tesseract](./tesseract.svg)
